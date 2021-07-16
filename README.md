@@ -2,7 +2,7 @@
 Hi, 
 I am Kristofer!
 
-In this repository, you can find data science and business analytics projects that I have created during my academic and professional career. For my background, I have a BSc in Data Science and Business Administration from the University of Michigan. In addition, I have worked in multiple tech companies as data scientist and business analyst. For more information, please visit my [LinkedIn](https://www.linkedin.com/in/kristofer-siimar-b87035173/) and take a look at [Resume](https://github.com/kristofersiimar/portfolio/blob/main/Resume.pdf). 
+In this repository, you can find data science and business analytics projects that I have created during my academic and professional career. I have a BSc in Data Science and Business Administration from the University of Michigan and I have worked in multiple tech companies as data scientist and business analyst. For more information, please visit my [LinkedIn](https://www.linkedin.com/in/kristofer-siimar-b87035173/) and take a look at [Resume](https://github.com/kristofersiimar/portfolio/blob/main/Resume.pdf). 
 
 ## Contents
 * **Data Science & Machine Learning**
