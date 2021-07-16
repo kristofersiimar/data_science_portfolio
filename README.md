@@ -13,7 +13,7 @@ In this repository, you can find data science and business analytics projects th
 
 * **Data Analytics**
   * [BankBlack USA Analytics Dashboard](https://drive.google.com/file/d/1Zd33VSrJsuoztNoN__ZB-WMHOse0q0dy/view?usp=sharing)
-  * [IoT Company Product Usage](https://github.com/kristofersiimar/portfolio/tree/main/IoT%20Company%20Product%20Usage%20Analysis)
+  * [IoT Product Usage](https://github.com/kristofersiimar/portfolio/tree/main/IoT%20Company%20Product%20Usage%20Analysis)
   * [Covid-19 Health Effects](https://github.com/kristofersiimar/portfolio/tree/main/Covid-19%20Health%20Effects)
 
 * **Business Strategy**
