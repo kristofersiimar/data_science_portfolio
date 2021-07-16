@@ -1,0 +1,7 @@
+# BankBlack USA Analytics Dashboard
+
+I created the analytics project as my final course project at the University of Michigan.
+
+The primary goal for the project is to bridge the information gaps between users and the benefits of the MDIs and CDFIs and educate and convince users that those black-owned financial institutions can equally and better serve their money. By giving the users of BankBlackUSA the means to find discernable information about the location and success of these banks, the long-term benefit would include increasing the volume of customers that use MDIs and CDFIs. Our interactive dashboards with various search filters will enable users to get a better overview of the resources they provide to individual communities, and as a result, persuade potential customers. Therefore, the main impact of our product will be evident in the way that MDIs and CDFIs are now more accurately represented in the financial industry and in the way they support the communities they serve. 
+
+The final deliverable will consist of interactive dashboards developed on Tableau that can be easily integrated into the BankBlackUSA site through link embedding. The dashboards enable users to gather necessary information about MDIs, based on their community reinvestment efforts compared to larger financial institutions— namely loan distribution, in order to choose the most appropriate financial institutions. 
