@@ -13,8 +13,8 @@ In this repository, I have gathered projects in data science and business analyt
 
 * **Data Analytics**
   * [BankBlack USA Analytics Dashboard](https://drive.google.com/file/d/1Zd33VSrJsuoztNoN__ZB-WMHOse0q0dy/view?usp=sharing)
-  * IoT Company Product Usage 
-  * Covid-19 Effects on Countries 
+  * [IoT Company Product Usage]()
+  * [Covid-19 Health Effects]()
 
 * **Business Strategy**
   *  [CVS Global Expansion Strategy Analysis](https://github.com/kristofersiimar/portfolio/tree/main/CVS%20Global%20Expansion%20Strategy)
