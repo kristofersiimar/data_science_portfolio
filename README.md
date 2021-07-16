@@ -6,7 +6,7 @@ In this repository, I have gathered projects in data science and business analyt
 ## Contents
 * **Data Science & Machine Learning**
   * [Catastrophe Survival](https://github.com/kristofersiimar/portfolio/tree/main/Catastrophe%20Survivals)
-  * Retail Banking Churn
+  * [Retail Banking Churn](https://github.com/kristofersiimar/portfolio/tree/main/Retail%20Banking%20Churn)
   * SaaS Platform Marketing Uplift
   * SaaS Platform Trial to Paying Conversion
 
