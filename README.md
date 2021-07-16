@@ -12,7 +12,7 @@ In this repository, I have gathered projects in data science and business analyt
 
 * **Data Analytics**
   * Minority Depository Institutions in USA
-  * IoT COmpany Product Usage 
+  * IoT Company Product Usage 
   * Covid-19 Effects on Countries 
 
 * **Business Strategy**
