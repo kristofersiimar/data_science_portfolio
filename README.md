@@ -5,8 +5,8 @@ In this repository, I have gathered projects in data science and business analyt
 
 ## Contents
 * **Data Science & Machine Learning**
- - dede
- - ded
+  * dede
+  * ded
 
 * **Data Analytics**
 
