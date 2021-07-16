@@ -5,9 +5,14 @@ In this repository, I have gathered projects in data science and business analyt
 
 ## Contents
 * **Data Science & Machine Learning**
-  * dede
-  * ded
+  * Catastrpohe Survival
+  * Retail Banking Churn
+  * SaaS Platform Marketing Uplift
+  * SaaS Platform Trial to Paying Conversion
 
 * **Data Analytics**
+  * Covid-19 Effects on Countries Analysis
+  * IoT Product Usage Analysis
 
 * **Business Strategy**
+  *  CVS Global Expansion Analysis
