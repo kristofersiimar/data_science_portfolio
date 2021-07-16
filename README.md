@@ -12,7 +12,7 @@ In this repository, you can find data science and business analytics projects th
   * [SaaS Platform Trial to Paying Conversion](https://github.com/kristofersiimar/portfolio/tree/main/Saas%20Platform%20Trial%20to%20Paying%20Conversion)
 
 * **Data Analytics**
-  * [BankBlack USA Analytics Dashboard](https://drive.google.com/file/d/1Zd33VSrJsuoztNoN__ZB-WMHOse0q0dy/view?usp=sharing)
+  * [BankBlack USA Analytics Dashboard](https://github.com/kristofersiimar/portfolio/tree/main/BankBlack%20USA%20Analytics%20Dashboard)
   * [IoT Product Usage](https://github.com/kristofersiimar/portfolio/tree/main/IoT%20Company%20Product%20Usage%20Analysis)
   * [Covid-19 Health Effects](https://github.com/kristofersiimar/portfolio/tree/main/Covid-19%20Health%20Effects)
 
