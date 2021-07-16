@@ -11,7 +11,7 @@ In this repository, I have gathered projects in data science and business analyt
   * [SaaS Platform Trial to Paying Conversion](https://github.com/kristofersiimar/portfolio/tree/main/Saas%20Platform%20Trial%20to%20Paying%20Conversion)
 
 * **Data Analytics**
-  * Minority Depository Institutions in USA
+  * [BankBlack USA Analytics Dashboard]()
   * IoT Company Product Usage 
   * Covid-19 Effects on Countries 
 
