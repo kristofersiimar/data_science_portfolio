@@ -11,8 +11,9 @@ In this repository, I have gathered projects in data science and business analyt
   * SaaS Platform Trial to Paying Conversion
 
 * **Data Analytics**
-  * Covid-19 Effects on Countries Analysis
-  * IoT Product Usage Analysis
+  * Minority Depository Institutions in USA
+  * IoT COmpany Product Usage 
+  * Covid-19 Effects on Countries 
 
 * **Business Strategy**
-  *  CVS Global Expansion Analysis
+  *  CVS Global Expansion 
