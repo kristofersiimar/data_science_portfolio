@@ -17,4 +17,4 @@ In this repository, I have gathered projects in data science and business analyt
   * Covid-19 Effects on Countries 
 
 * **Business Strategy**
-  *  [CVS Global Expansion Strategy Analysis]()
+  *  [CVS Global Expansion Strategy Analysis](https://github.com/kristofersiimar/portfolio/tree/main/CVS%20Global%20Expansion%20Strategy)
