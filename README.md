@@ -5,7 +5,7 @@ In this repository, I have gathered projects in data science and business analyt
 
 ## Contents
 * **Data Science & Machine Learning**
-  * Catastrpohe Survival
+  * Catastrophe Survival
   * Retail Banking Churn
   * SaaS Platform Marketing Uplift
   * SaaS Platform Trial to Paying Conversion
